@@ -1,4 +1,5 @@
 #
+WITHOUT_LIB32=y
 #
 # The common user-driven targets are (for a complete list, see build(7)):
 #
